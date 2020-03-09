@@ -49,13 +49,13 @@ excerpt_separator: <!-- more -->
 
 # 你的社交网络链接，它们会作为图标出现在你的网站页脚中，可选填写
 footer-links: 
-  weibo: Paganana #请输入你的微博个性域名 https://weibo.com/u/5496178358
+  weibo: u/5496178358 #请输入你的微博个性域名 https://weibo.com/u/5496178358
   behance: # https://www.behance.net/<>
   dribbble: # https://dribbble.com/<>
   email: 1712257541@qq.com 
   facebook: #https://www.facebook.com/<>
   flickr: #https://www.flickr.com/<>
-  github: Fanternlish/working-on-it #https://github.com/<>
+  github: fanternlish/working-on-it #https://github.com/<>
   instagram: #https://instagram.com/<>
   linkedin: #https://www.linkedin.com/in/<>
   pinterest: #https://www.pinterest.com/<>
