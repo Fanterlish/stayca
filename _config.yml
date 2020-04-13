@@ -24,7 +24,8 @@ baseurl: /working-on-it
 #
 
 # 你的博客logo图片URL，建议尺寸不超过300px × 300px
-avatar: https://raw.githubusercontent.com/Fanternlish/working-on-it/master/images/newlogo.png
+avatar: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/logo.png
+
 
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
 favicon: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/favicon.png
@@ -49,7 +50,7 @@ excerpt_separator: <!-- more -->
 
 # 你的社交网络链接，它们会作为图标出现在你的网站页脚中，可选填写
 footer-links: 
-  weibo: u/5496178358?is_hot=1 #请输入你的微博个性域名 https://weibo.com/u/5496178358
+  weibo: https://weibo.com/u/5496178358?is_hot=1 #请输入你的微博个性域名 https://weibo.com/u/5496178358
   behance: # https://www.behance.net/<>
   dribbble: # https://dribbble.com/<>
   email: 1712257541@qq.com 
